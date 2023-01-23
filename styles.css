@@ -1,0 +1,31 @@
+#window{
+    background-color: aliceblue;
+    border: 2px solid #000;
+    padding: 0px  0px ;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+body{
+    background: rgb(63,251,195);
+background: radial-gradient(circle, rgba(63,251,195,1) 0%, rgba(108,70,252,1) 100%);
+}
+
+#divison{
+    padding-top: 10px;
+}
+
+#refresh{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: #4CAF50; /* Green */
+    border-radius: 12px;
+    color: white;
+     padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
