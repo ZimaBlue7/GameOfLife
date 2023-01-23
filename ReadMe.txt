@@ -1,0 +1,4 @@
+#Introducción
+
+El codigo fue hecho utilizando el entorno de desarrollo Visual Studio Code por lo que este tiene una extension la cual permite abrir el html mientras se trabaja en el, el nombre de esta extension es "Go live".
+
