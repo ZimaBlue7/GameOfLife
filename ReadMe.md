@@ -4,4 +4,4 @@ El codigo fue hecho utilizando el entorno de desarrollo Visual Studio Code por l
 
 https://raw.githubusercontent.com/ZimaBlue7/GameOfLife/main/assets/liveserver.png
 
-De todas formas con solo ejecutar el index.html el programa deberia funcionar correctamente
+De todas formas con solo ejecutar el index.html el programa deberia funcionar correctamente.
